@@ -17,14 +17,14 @@
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `projects`,
-        path: `${__dirname}/src/topics/`,
+        name: `articles`,
+        path: `${__dirname}/src/articles/`,
       },
     },
   ],
   siteMetadata: {
-    title: 'A Rabbit Hole',
-    description: 'learn all the things',
+    title: 'Markdown Dev',
+    description: 'A place to organize my thoughts',
     copyright: '2021 Jamie Roszel'
   },
 }

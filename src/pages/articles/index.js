@@ -7,8 +7,8 @@ const Topics = () => {
     return (
         <Layout>
             <div className={styles.portfolio}>
-                <h2>Topics</h2>
-                <h3>Various Topics</h3>
+                <h2>Articles</h2>
+                <h3>Various articles</h3>
             </div>
         </Layout>
     );

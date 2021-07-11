@@ -18,7 +18,7 @@ export default function Navbar() {
             <div className="links">
                 <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
-                <Link to="/topics">Learn all the things</Link>
+                <Link to="/articles">Articles</Link>
             </div>
         </nav>
     )
