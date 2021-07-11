@@ -8,10 +8,10 @@ export default function Home() {
     <Layout>
       <section className={styles.header}>
         <div>
-          <h2>Design</h2>
-          <h3>Develop & Deploy</h3>
-          <p>Technical Writer based in Apex, NC</p>
-          <Link className={styles.btn} to="/topics">Now...go learn all the things</Link>
+          <h2>A rabbit hole</h2>
+          <h3>Learn all the things</h3>
+          <p>A rabbit hole is a website devoted to organizing podcasts by topic. </p>
+          <Link className={styles.btn} to="/topics">Start learning</Link>
         </div>
       </section>
     </Layout>
