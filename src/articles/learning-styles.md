@@ -1,7 +1,11 @@
 ---
 title: Why Learning Styles are a Myth
 topic: learning
+description: Learning styles are a myth...why does the myth persist?
 slug: learning-styles-are-myth
+date: 2021-07-11T00:00:00+00:00 
+thumb: ../images/thumbs/taking_notes.jpg
+featuredImg: ../images/featured/learning.jpg
 ---
 
 # Why Learning Styles are a Myth
