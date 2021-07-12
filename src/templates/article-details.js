@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../components/Layout'
-import styles from "../styles/article-details.module.css"
+import * as styles from "../styles/article-details.module.css"
 
 const ArticleDetails=() => {
     return (
